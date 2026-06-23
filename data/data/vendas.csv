@@ -1,1 +1,11 @@
-
+pedido_id,data_pedido,cliente_id,produto,categoria,quantidade,valor_unitario,valor_total,regiao
+1,2024-01-05,101,Notebook,Eletrônicos,1,3500,3500,Sudeste
+2,2024-01-10,102,Mouse,Eletrônicos,2,50,100,Sul
+3,2024-01-15,103,Cadeira,Moveis,1,800,800,Sudeste
+4,2024-02-01,101,Teclado,Eletrônicos,1,120,120,Sudeste
+5,2024-02-03,104,Monitor,Eletrônicos,1,900,900,Nordeste
+6,2024-02-10,105,Mesa,Moveis,1,700,700,Sul
+7,2024-03-05,102,Headset,Eletrônicos,1,200,200,Sul
+8,2024-03-10,106,Notebook,Eletrônicos,1,4000,4000,Norte
+9,2024-03-15,101,Mouse,Eletrônicos,3,50,150,Sudeste
+10,2024-04-01,107,Cadeira,Moveis,2,800,1600,Centro-Oeste
